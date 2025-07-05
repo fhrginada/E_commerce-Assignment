@@ -10,5 +10,5 @@ package com.mycompany.fawry_assignment_e_commerce_system;
  */
 public interface Shippable {
     double getWeight();
-    
+    String getName();
 }
